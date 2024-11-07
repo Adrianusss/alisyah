@@ -1,0 +1,1 @@
+var json_alisyahHouses_30 = {"type":"FeatureCollection","name":"alisyahHouses_30","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[]}
